@@ -1,0 +1,27 @@
+h1{
+    margin: 0px;
+    padding: 0px;
+    background-color: #232343;
+    font-size: 48px;
+    text-align: center;
+    color: red;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+  }
+  
+  img{
+    width: 700px;
+    height: 700px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 10px;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #1212d9;
+    height: 100%;
+    width: 100%;
+  }
